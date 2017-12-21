@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "View and grab products using MySQL database",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenrevans10/Bamazon.git"
+  },
+  "author": "Darren Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenrevans10/Bamazon/issues"
+  },
+  "homepage": "https://github.com/darrenrevans10/Bamazon#readme"
+}
